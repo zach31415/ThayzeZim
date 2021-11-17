@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-01-18T18:03:36-08:00
+
+[[Bestiary]]
+
+====== Rot Blight ======
+@Green
+@Yellow
+
+
+===== Description =====
+
+
+===== Lore =====
+
+
+===== Stats =====
+
+ID:  Rot Blight
+AC:  15
+HP:  46 (7d8+21)
+Speed:  20 ft.
+Abilities:  16 str, 10 dex, 17 con, 9 int, 13 wis, 6 cha
+Saves:  +3 str, +0 dex, +5 con, -1 int, +1 wis, -3 cha
+Proficiency Bonus:  +2
+Resistances:  Piercing & Bludgeoning from nonmagical weapons
+Damage Immunities:  Necrotic
+Condition Immunities:  Blinded, Deafened
+Actions:
+	Lash +5 (1d8+3) melee
+Abilites:
+
+//**False Appearance**//
+While the blight remains motionless, it is indistinguishable from a bed of moss.
+

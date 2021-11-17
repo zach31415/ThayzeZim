@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-02T21:30:25-08:00
+
+[[NPC Compendium|Compendium]]
+
+====== Vylo ======
+@Purple
+@Gold
+
+[[+Backstory|Backstory]]
+[[+Description|Description]]
+[[+Session Notes|Session Notes]]
+[[+Stats|Stats]]
+
+
+{{..\SigilImages\PowerSigil.png}}

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-15T19:59:33-08:00
+
+[[Home]]
+
+====== Cool Idea Repository ======
+
+
+Here be a container for any ideas or concepts that either haven't been implimented or don't have a good home anywhere else.

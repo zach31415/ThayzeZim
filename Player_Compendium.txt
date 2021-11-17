@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-28T19:30:30-08:00
+
+[[Home]]
+
+====== Players ======
+
+[[+Tik|Aeryn (Tik)]]
+[[+Varis|Andre (Varis)]]
+[[+Reginae|Angelie (Reginae)]]
+[[+Vol'shtakigreegna|Marvin (Vol'shtakingreegna)]]
+[[+Baragon|Nathaniel (Baragon)]]
+
+
+=== Passive Perceptions ===
+Tik			14
+Varis		14
+Reginae		15
+Volts		13
+Baragon		12
+
+=== Passive Insights ===
+Tik			12
+Varis		14
+Reginae		15
+Volts		11
+Baragon		12
+
+=== Armor Classes ===
+Tik			14
+Varis		15
+Reginae		16
+Volts		14
+Baragon		18
+
+
+
+

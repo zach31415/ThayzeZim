@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:43:14-08:00
+
+====== Stats ======
+
+ID:  Zekeilar'y'rathon
+AC:  16+3
+HP:  27
+Speed:  30 ft. speed & 30 ft. fly
+Abilities:  16 str, 14 dex, 8 con, 13 int, 12 wis,16 cha
+Saves:  +3 str, +2 dex, -1 con, +1 int, +1 wis, +3 cha
+Proficiency Bonus:  +2
+Proficient Skills:  Stealth, Acrobatics
+Resistances:  Fire
+Actions:
+	Trident +5 (1d6+3) melee
+	Light Pick +5 (1d4+3) melee
+Abilites:
+
+//**Eldritch Surge**//
++2d8 fire on a hit  and gain 10 temp hp.  2/long rest
+
+//**Mantle of Incineration**//
+2/day
+* +3 AC
+* +10 ft. speed
+* advantange on Acrobatics
+* any creature who hits Zeke with a melee attack within 5 feet takes three (3) fire damage 
+
+//**Seeker's Sight**//
+Can see in both magical and natural darkness out to 120 ft. as if he had darkvision

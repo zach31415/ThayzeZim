@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:42:40-08:00
+
+[[NPC Compendium|Compendium]]
+
+====== Template ======
+@ Color1
+@ Color2
+
+[[+Backstory|Backstory]]
+[[+Description|Description]]
+[[+Session Notes|Session Notes]]
+[[+Stats|Stats]]
+
+

@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:12:56-08:00
+
+[[Home]]
+
+====== Physical Setting ======
+
+Thayze is an old world, changed and warped from nature by advances some of which have faded even from legend.  The fantastic litters the world, breadcrumbs to lead the future forward by looking back.
+
+===== Boranquil =====
+	The westernmost region bordered by Rara’Jin, Dreva, and open sea, Boranquil is the most habitable of the regions.  Lush forests and rolling planes make dreams for both agriculture and pastoralism with four Sentients calling it home.  Elves dominate the southern region bordering Rara’Jin with four united city states that outline what is known as the Basin, a slight depression in the earth which creates rivers that run from the sea inland to the Sealed Lake.  Humans claim dominion over the northern elven border in the name of the Golden Union, riding the river Arandrelle for most its length and pressing up against the Bulwark, the mountain range which separates Boranquil from Dreva.  The Kobold Warren ends the Cornucopia, the northwestern peninsula which strikes into the Boundless Sea.  Hathar’Sol, the dwelling of the Goblinkin is chiseled into the Crag, the northern mass which heads the Bulwark.
+
+===== Dreva =====
+	A barren desert of powder white sands.  From the western Bulwark to the eastern Brink, sand and wind and death accompany all.  Superheated in the day and frozen after nightfall, these desolate lands are spotted with massive solid sandstone humanoid statues worn from wind, purple expenses of carnivorous lurk root, and cristal basins perpetually filled with water.  Magic infuses the very sands of Dreva, twisting weather and mind alike.  Maddened travelers thought long lost to the sands will stumble into villages and outposts muttering of an ancient blinding light, but they never live for long.  Storms, miles high will rise from nowhere and carry desolation across leagues before dissipating into the nothing from which they came.  Uncertainty is the only pattern to Dreva.
+
+===== Drevian Wastes =====
+	An unending field of course black sands.  From the Brink extending east a distance unknown, a wave of black that runs and runs and runs until a gaze seems to turn the whole world to black sand, the whole of reality to black, existence gone.  Nothing grows in the wastes.  Nothing lives in the wastes.  There is no water, no clouds, no life.  The Drevian Wastes are dead.  The Drevian Wastes have always been dead.  The Drevian Wastes will always and forever, be dead.
+
+===== Rara’Jin =====
+	To the south of Boranquil, where soil turns to stone and fields to foothills, the earth burns within.  Rara’Jin is an archipelago which runs southward in a crescent curving eastward, a collection of five primary isles with dozens of smaller land masses spattered about.  The Sauri call these rough lands home, and recently a Dwarven outpost has been set up in the northern regions.
+
+===== Mahrkned =====
+	Haven.  Impossible life engulfed by death and thriving still.  A shelter of massive stone spires rising from the Drevian Wastes.  A harbor from a roiling storm of silence and vacancy.  Here the Eidolons persist.  Here, they live amidst the death.  Here in a cradle of death, the burgeoning infant stirs.

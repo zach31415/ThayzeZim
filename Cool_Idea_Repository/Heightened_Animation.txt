@@ -1,0 +1,136 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-16T18:48:31-08:00
+
+====== Heightened Animation ======
+
+
+3rd Level Necromancy spell Animate Dead
+**Casting Time:** 1 minute
+**Range:** 10 feet
+**Components:** V S M (A drop of blood, a piece of flesh, and a pinch of bone dust)
+**Duration:** Instantaneous
+**Classes:** Cleric, Wizard
+This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones or a zombie if you chose a corpse (the GM has the creature’s game statistics). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
+**At Higher Levels:** When you cast this spell using a spell slot of 4th level or higher, you animate or reassert control over two additional Undead creatures for each slot above 3rd. Each of the creatures must come from a different corpse or pile of bones.
+
+     
+ID:  Zombie (CR 1/4)
+AC:  8
+HP:  22 (3d8+9)
+Speed:  20 ft.
+Abilities:  13 str, 6 dex, 16 con, 3 int, 6 wis, 5 cha
+Saves:  +1 str, -2 dex, +3 con, -4 int, +0 wis, -3 cha
+Proficiency Bonus:  +2
+Proficient Skills:  none
+Resistances:  none
+Damage Immunities:  Poison
+Condition Immunities:  Poisoned
+Vulnerabilities:  none
+Actions:
+	Slam +3 (1d6+1 bludgeoning) melee
+Abilites:
+//**Undead Fortitude.**//  If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+
+ID:  Skeleton (CR 1/4)
+AC:  13
+HP:  13 (2d8+4)
+Speed:  30 ft.
+Abilities:  10 str, 14 dex, 15 con, 6 int, 8 wis, 5 cha
+Saves:  +0 str, +2 dex, +2 con, -2 int, -1 wis, 5 cha
+Proficiency Bonus:  +2
+Proficient Skills:  none
+Resistances:  none
+Damage Immunities:  Poison
+Condition Immunities:  Exhaustion, Poisoned
+Vulnerabilities:  Bludgeoning
+Actions:
+	Shortsword +4 (1d6+2 piercing) melee
+	Shortbow +4 (1d6+2 piercing) 80/320 ft.
+Abilites:
+//**Dull.**//  This creature is bland and boring, nothing else to see here
+
+
+
+
+
+
+
+So, the problem we have is that its nearly objectively suboptimal to not utilize the full extent of the broken spell often refered to as Animate Dead.  So, most of this brokenness comes down to the absolutly insane inbalance which comes from the massive boost to the action economy.  Further more, as the most effective usage of this spell involves a massive amount of skeletons, and massive combats really kill pacing unless its a really special scene, this spell also kills pacing.  Additionally, theres like no reason to make Zombies with the original spell, because they just suck, so lets fix this.  So, in total, we need a variant Animate Dead which allows for some limit on the quanitity of skeletons beyond the litteral exponential growth that the source version has, and something to compensate a bit in the form of better minions, and maybe add to flavor as well, who knows, here we go! 
+
+Key:
+bold = new/changed
+italics = old content removed from here
+
+
+3rd Level Necromancy spell Variant Animate Dead
+**Casting Time:** 1 minute
+**Range:** 10 feet
+**Components:** V S M (A drop of blood, a piece of flesh, and a pinch of bone dust)
+**Duration:** Instantaneous
+**Classes:** Cleric, Wizard
+This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target //becomes a skeleton// (**you have** the creature’s game statistics). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within **120** feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete. The skeleton persists for 25 hours, after which it **deconstructs into a pile of bones**. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to **three** creatures you have animated with this spell **and has no range**, rather than animating a new one.
+**At Higher Levels:** When you cast this spell using a spell slot of 4th level or higher //you can reassert control over// one additional Undead creature for each slot above 3rd.  **Alternatively, you can look at this cool table for buffs when making new ones:**
+
+
+| Spell Level<| Stacking Bonus                                                                                                                                <|
+|:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 3           | gain proficiency with Light Armor and Simple Weapons (this is a debuf, as shortsword is martial), gain +2 str (to make the debuff less severe) |
+| 4           | gain proficiency with Medium Armor and Martial Weapons, gain +3 str (so str is same as dex), gain 6 (1d8+2) hp                                 |
+| 5           | gain proficiency with Heavy Armor and Shields, gain 7 (1d8+2) hp                                                                               |
+| 6           | gain Undead Fortitude (as the Zombie), boost the Proficiency Bonus to +3, gain 6 (1d8+2) hp                                                    |
+| 7           | loose vulnerability to Bludgeoning, gain immunity to necrotic damage, +1 str, +2 dex, gain 7 (1d8+2) hp                                        |
+
+
+
+
+ID:  Skeleton (Lvl 3 spell slot)
+AC:  13
+HP:  13 (2d8+4)
+Speed:  30 ft.
+Abilities:  12 str, 14 dex, 15 con, 6 int, 8 wis, 5 cha
+Saves:  +1 str, +2 dex, +2 con, -2 int, -1 wis, -3 cha
+Proficiency Bonus:  +2
+Proficient Skills:  none
+Resistances:  none
+Damage Immunities:  Poison
+Condition Immunities:  Exhaustion, Poisoned
+Vulnerabilities:  Bludgeoning
+Actions:
+	Mace +3 (1d6+1 bludgeoning) melee
+	Shortbow +4 (1d6+2 piercing) 80/320 ft.
+Abilites:
+//**Dull.**//  This creature is bland and boring, nothing else to see here
+
+
+
+ID:  Skeleton (Lvl 7 spell slot)
+AC:  18
+HP:  39 (6d8+12)
+Speed:  30 ft.
+Abilities:  16 str, 16 dex, 15 con, 6 int, 8 wis, 5 cha
+Saves:  +3 str, +3 dex, +2 con, -2 int, -1 wis, -3 cha
+Proficiency Bonus:  +3
+Proficient Skills:  none
+Resistances:  none
+Damage Immunities:  Poison, Necrotic
+Condition Immunities:  Exhaustion, Poisoned
+Vulnerabilities:  none
+Actions:
+	Glave +6 (1d10+4 slashing) reach
+	Heavy Crossbow +6 (1d10+3 piercing) 100/400 ft.
+Abilites:
+//**Undead Fortitude.**//  If damage reduces the skeleton to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the skeleton drops to 1 hit point instead.
+
+P.S. this takes 1,570 gold to outfit as well
+
+
+
+
+
+
+
+
+
+

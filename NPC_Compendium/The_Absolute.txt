@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:52:23-08:00
+
+[[NPC Compendium|Compendium]]
+
+====== The Absolute ======
+@Yellow
+@Yellow
+@Yellow
+@Yellow
+@Yellow
+@Yellow
+@Yellow
+@Yellow
+
+[[+Backstory|Backstory]]
+[[+Description|Description]]
+[[+Session Notes|Session Notes]]
+[[+Stats|Stats]]

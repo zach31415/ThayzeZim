@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-03-29T22:20:53-07:00
+
+[[Bestiary]]
+
+====== Thorn Blight ======
+@Green
+@Yellow
+
+
+===== Description =====
+
+This androgynous elven figure appears made of a dark wood instead of flesh.  Their entire body is covered in thorns of varying sizes up to around an inch long.  Each finger ends in a three inch long clean talon.  Its eyes are dull spheres of a greened white wood
+
+
+
+===== Lore =====
+
+
+===== Stats =====
+
+ID:  
+AC:  
+HP:  
+Speed:  
+Abilities:  str, dex, con, int, wis, cha
+Saves:  str, dex, con, int, wis, cha
+Proficiency Bonus:  
+Proficient Skills:  
+Resistances:  
+Damage Immunities:  
+Condition Immunities:  
+Vulnerabilities:  
+Actions:
+	Name +atk (dmg) range
+Abilites:
+
+
+

@@ -1,0 +1,56 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:18:50-08:00
+
+====== Stats ======
+
+
+ID:  Eigen Mk 5
+AC:  15
+HP:  67
+Speed:  30 ft.
+Abilities:  16 str, 15 dex, 14 con, 18 int, 14 wis, 12 cha
+Saves:  +3 str, +2 dex, +5 con, +7 int, +2 wis, +1 cha
+Proficiency Bonus:  +3
+Proficient Skills:  Arcana, History, Investigation, Nature, Religion
+Resistances: Piercing, Slashing, Bludgeoning from nonmagical weapons
+Damage Immunities:  Poison 
+Condition Immunities:  Frightened, Paralyzed, Petrified, Poisoned, Stunned
+Vulnerabilities:  Acid
+Actions:
+	2x +2 Greatsword +8 (1d12+6 slashing) melee
+	3x +1 Hand Crossbow +6 (1d6+3 piercing) 30/120
+	+3 Heavy Crossbow +8 (1d10+5 piercing) 100/400
+Abilites:
+
+//**Phantom Collection**//
+Whenever a creature dies within a hundred feet of Eigen, their souls become entwined with its being, keeping it from departing.  These spirits can be called forth by Eigen and manifest as [[Colors|green]] Specters without sunlight sensitivity.
+
+
+
+
+
+ID:  Eigen Mk 7
+AC:  18
+HP:  124
+Speed:  45 ft.
+Abilities:  18 str, 17 dex, 14 con, 21 int, 14 wis, 13 cha
+Saves:  +4 str, +3 dex, +6 con, +9 int, +2 wis, +1 cha
+Proficiency Bonus:  +4
+Proficient Skills:  Acrobatics, Arcana, Athletics, History, Investigation, Nature, Religion
+Resistances: Piercing, Slashing, Bludgeoning from nonmagical nonadamantine weapons
+Damage Immunities:  Poison, Acid
+Condition Immunities:  Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Stunned
+Actions:
+	3x +2 Rayblade +10 (1d12+8 force) melee
+	4x +1 Arcane Striker +8 (1d8+4 force) 80/320 
+	2x +3 Eldritch Arbalest +10 (2d12+6 force) 200/800 (disadvantage under fifty feet)
+Abilites:
+
+//**Phantom Collection**//
+Whenever a creature dies within a hundred feet of Eigen, their souls become entwined with its being, keeping it from departing.  These spirits can be called forth by Eigen and manifest as [[Colors|green]] Specters without sunlight sensitivity.
+
+
+
+{{.\pasted_image.png}}
+

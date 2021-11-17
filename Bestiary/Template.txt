@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-01-18T17:57:17-08:00
+
+[[Bestiary]]
+
+====== Template ======
+@ Color1
+@ Color2
+
+
+===== Description =====
+
+
+===== Lore =====
+
+
+===== Stats =====
+
+ID:  
+AC:  
+HP:  
+Speed:  
+Abilities:  str, dex, con, int, wis, cha
+Saves:  str, dex, con, int, wis, cha
+Proficiency Bonus:  
+Proficient Skills:  
+Resistances:  
+Damage Immunities:  
+Condition Immunities:  
+Vulnerabilities:  
+Actions:
+	Name +atk (dmg) range
+Abilites:
+
+
+

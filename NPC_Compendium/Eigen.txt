@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:18:32-08:00
+
+[[NPC Compendium|Compendium]]
+
+====== Eigen ======
+@Grey
+@Green
+
+[[+Backstory|Backstory]]
+[[+Description|Description]]
+[[+Session Notes|Session Notes]]
+[[+Stats|Stats]]
+
+
+{{..\SigilImages\ArtificeSigil.png}}

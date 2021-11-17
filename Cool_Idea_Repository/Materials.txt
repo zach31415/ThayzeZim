@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-03-03T14:06:56-08:00
+
+====== Materials ======
+
+
+
+So that gave me a Brinell Hardness Number for Australian Buloke of 11.48 BHN.
+
+Where:
+lead = 5 BHN
+tin = 7 BHN
+pure aluminum = 15 BHN
+copper = 35 BHN
+iron = 156 BHN
+
+
+
+Damascus Steel aka "Watered Steel"
+burned plants to provide carbon nanotubes in the steel
+
+
+
+
+
+
+===== Ironwood =====
+Roughly as strong and durrable as high quality steel, yet contains regenerative properties.  No one is certain anymore of how to forge it, as it always heals back to its original form.  Extremely fine grained, to the point of feeling completely smooth, will grow back to whole if damaged.
+
+
+===== Damascus Steel =====
+Ferro Amnus, Watered Steel, it has many names but its truest is Damascus Steel.  Forged by the truly legendary smith Damascus, these bladed weapons are cuvetted by warriors and collectors alike.  Many have tried to emulate his work, but true Damascus works are unparalleled.
+
+
+
+
+

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:19:26-08:00
+
+====== Backstory ======
+
+Designed by a team of [[:Cultral Setting:The Golden Union|Golden Union]] artificers 
+
+A prototype sentient simulacrum, Eigen was wrought originally as a utility for warfare.  Seeking more from life, Eigen reached out through the ephrem seeking a path, a guide, a power, and found it.  With a greater strength, Eigen slaughtered the artificers who made it and proceeded out to learn of the world.  A ten foot tall metallic masterpiece of filigree, Eigen’s body has been reforged over a dozen times in better and better forms.  
+
+    

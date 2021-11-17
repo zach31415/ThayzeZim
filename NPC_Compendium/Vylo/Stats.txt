@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:43:14-08:00
+
+====== Stats ======
+
+ID:  Vylo
+AC:  
+HP:  
+Speed:  
+Abilities:  10 str, 16 dex, 11 con, 19 int, 16 wis, 17 cha
+Saves:  str, dex, con, int, wis, cha
+Proficiency Bonus:  +4
+Proficient Skills:  
+Resistances:  
+Damage Immunities:  
+Condition Immunities:  
+Vulnerabilities:  
+Actions:
+	Name +atk (dmg) range
+Abilites:
+
+
+

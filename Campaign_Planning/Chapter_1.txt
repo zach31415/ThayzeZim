@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-03T19:57:33-08:00
+
+[[Campaign Planning|Chapter Compendium]]
+
+====== Chapter 1 ======
+
+Here be the opener, the plan is as follows:
+
+Levels 2 to 5, ending with some climactic conflict with Eigen Mk5
+   
+
+===== Plot Outline =====
+
+Team bonding:  TODO: learn the characters and make a first outing
+The Kobolds:  coming back from the first outing, meeting the caravans fleeing "deletion"
+Refugees:  early warning from a forester leads to a call for aid
+THERES A HOLE HERE
+Anti-ephrem scepter:  Macguffin in a subterrainian death trap  (Note: Alip guardians)
+Confrontation:  awesome bombastic fight with Eigen
+
+
+==== Session Outline ====
+LEVEL 2 START
+
+[[+Session 1|Session 1]]:  the team bonding, end on a high note			LEVEL TO 3
+[[+Session 2|Session 2]]:  the kobolds and arriving at the refugees
+Session 3:  handling the refugees & FIX THE HOLE			LEVEL TO 4
+Session 4:  get into the cella
+Session 5:  get out of the cella							LEVEL TO 5
+Session 6:  fight Eigen Mk 4 & then 5's revenge			LEVEL TO 6
+
+

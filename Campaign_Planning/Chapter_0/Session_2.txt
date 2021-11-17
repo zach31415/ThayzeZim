@@ -1,0 +1,96 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-04-25T18:58:40-07:00
+
+[[Chapter 0]]
+
+====== Session 1 ======
+Session was on: Sunday 25 April 2021
+
+
+===== Session Plans =====
+
+
+Blaze
+Evade
+Rend
+
+"To draw nearer whould be dangerous"
+
+movement in the trees
+rippling moss
+twigs down a trail
+thorn stepping forth
+
+
+Peace offering: A Primitve, amophous, unmade Ironwood
+
+we make tools, bu some times they're required elsewhere
+
+
+
+[[Bestiary:Vine Blight|Vine Blight]]
+
+ID:  Rot Blight
+AC:  15
+HP:  46 (7d8+21)
+Speed:  20 ft.
+Abilities:  16 str, 10 dex, 17 con, 9 int, 13 wis, 6 cha
+Saves:  +3 str, +0 dex, +5 con, -1 int, +1 wis, -3 cha
+Proficiency Bonus:  +2
+Resistances:  Piercing & Bludgeoning from nonmagical weapons
+Damage Immunities:  Necrotic
+Condition Immunities:  Blinded, Deafened
+Actions:
+	Lash +5 (1d8+3) melee
+Abilites:
+
+//**False Appearance**//
+While the blight remains motionless, it is indistinguishable from a bed of moss.
+
+
+
+
+===== Session Notes =====
+
+
+
+
+
+19 Baragon
+18 Volts
+16 Twigs
+10 Tik
+7 Reginae
+4 Varis
+
+21 Varis
+17 Baragon
+12 Volts
+11 Reginae
+7 Needle
+3 Tik
+1 Vines
+
+
+04 - THIS VINE BLIGHT ESCAPED BY SUFFUSING THROUGH THE GROUD
+00
+
+00
+00
+
+
+The rolling hills - only at night
+fallen trees get consumed by the roling hills  
+the smoke only comes once every 24 hours
+
+
+
+
+
+
+
+
+
+
+

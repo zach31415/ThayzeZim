@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-15T20:03:43-08:00
+
+[[Home]]
+
+====== Pantheon ======
+
+
+===== The Tetrad =====
+Remph - embodiment of infinity and eternity, associated with time and the unknowable
+Asmodel - being of distinction and change, associated with balance and entropy
+Advachiel - epitome of unity and purity, associated with solidarity and perfection
+Suchlaph - life itself, all mortal life is wrought from it and returns to it in cycle
+
+===== The Emanation =====
+Gevurah - oblivion, elimination, the end, associated with paradoxes and deletion
+
+===== The Colossi =====
+Asbeel - the champion of ruin, desolation, wear, erosion, and corrosion
+Sahaqiel - the champion of light, brilliance, glory, honor, and faith
+Gadreel - the champion of war, passion, dominance, conflict, and struggle
+Shateiel - the champion of deception, obfuscation, lies, illusion, and uncertainty
+Hasmed - the once champion of enlightenment, discovery, truth, and revelation
+Thujn - the prophet of annihilation, true destruction, immolation, evisceration, and finality
+
+===== The Ephrem =====
+Azazel - the watcher, the traveler, the guardian of the ways
+Raziel - the keeper, the scholar, the guardian of secrets past
+Tifiret - the wielder, the fat spinner, the guardian of secrets to come
+Eion Sof - the sleeper, the origin, the guardian of worlds beyond

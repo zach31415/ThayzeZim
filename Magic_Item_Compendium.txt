@@ -1,0 +1,70 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-02T16:21:03-08:00
+
+[[Home]]
+
+====== Magic Item Compendium ======
+
+
+===== Alphabetized List =====
+
+=== A ===
+
+=== B ===
+
+=== C ===
+
+=== D ===
+
+=== E ===
+
+=== F ===
+
+=== G ===
+
+=== H ===
+
+=== I ===
+
+=== J ===
+
+=== K ===
+
+=== L ===
+
+=== M ===
+
+=== N ===
+
+=== O ===
+
+=== P ===
+
+=== Q ===
+
+=== R ===
+
+=== S ===
+
+=== T ===
+
+=== U ===
+
+=== V ===
+
+=== W ===
+
+=== X ===
+
+=== Y ===
+
+=== Z ===
+
+
+
+
+
+
+[[+Template|Template]] to generate a new item
+

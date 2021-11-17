@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:14:45-08:00
+
+[[Home]]
+
+====== Cultural Setting ======
+
+
+=== [[+The Coalition|The Coalition]] ===
+The great elven empire, filled with wonder, splendor, and a highly authoritarian government.
+
+=== [[+The Golden Union|The Golden Union]] ===
+Man's great stronghold, allied to the elves and growing rapidly.
+
+=== [[+Hathar'Sol|Hathar'Sol]] ===
+The goblinkin haven; rowdy, chaotic, welcoming, deadly.
+
+=== [[+Eigor Dur|Eigor Dur]] ===
+The dwarven domain, prosperous and diverse if diminutive.
+
+=== [[+Aginor|Aginor]] ===
+Home to the sauri, an mysterious and largley unknown locale.

@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:17:22-08:00
+
+[[Home]]
+
+====== Colors ======
+So within Thayze, just as something to add another dimension to the storytelling capacity, colors represent abstract principles.  This allows for stronger theming and some more nuanced communications.
+
+Yellow		The Absolute/other
+Gold		Order/authority
+Green		Nature/freedom
+Blue		Truth/trust
+Black		Devotion/loyalty
+Red			Emotion/turbulence
+White		Eternity/resilience
+Grey		Knowledge/reasoning
+Violet		Power/energy

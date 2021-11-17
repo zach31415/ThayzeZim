@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:52:01-08:00
+
+[[NPC Compendium|Compendium]]
+
+====== Reva ======
+@Black
+@Yellow
+
+[[+Backstory|Backstory]]
+[[+Description|Description]]
+[[+Session Notes|Session Notes]]
+[[+Stats|Stats]]
+
+
+{{..\SigilImages\DevotionSigil.png}}

@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-03T19:20:35-08:00
+
+====== Session Template ======
+Session was on: Yday 00 Month 202X
+
+
+===== Session Plans =====
+
+
+
+
+
+
+
+===== Session Notes =====
+
+
+
+

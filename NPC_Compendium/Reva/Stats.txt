@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-01T20:43:14-08:00
+
+====== Stats ======
+
+ID:  Reva
+AC:  14
+HP:  70
+Speed:  30 ft.
+Abilities:  7 str, 15 dex, 13 con, 16 int, 15 wis, 20 cha
+Saves:  -2 str, +2 dex, +1 con,+3  int, +6 wis, +9 cha
+Proficiency Bonus:  +4
+Proficient Skills:  
+Resistances:  Necrotic, Psychic
+Condition Immunities:  Charmed
+Vulnerabilities:  Radiant
+Actions:
+	Name +atk (dmg) range
+Abilites:
+
+//**Sunlight Sensativity**//
+While in sunlight, you have disadvantage on attack rolls and Wisdon (Perception) checks that rely on sight.
+//**Fluid Aversion**//
+You 10 acid damage if you end your turn at least partially submerged in running water.
+//**Restless**//
+You don't need to sleep in order to gain the benefits of a long rest.  Instead you can spend four hours doing simple non-strenuous tasks such as reading a book, wiritng a letter, or painting a picture.
+//**Enchanting**//
+The saving throw DC for warlock spells you cast that cause creatures to be charmed or frightened by you increases by 1.
+//**Animal Urges**//
+At first level, you gain the *primal savagery* cantrip whcih does not count against your number of warlock cantrips known.  Whenever you cast this spell as a warlock cantrip it deals necrotic damage in place of acid.
+
+//**Night Walker**//
+Starting at 6th level, you come closer to your ancestral nature, and are are always under the effects of the *spider climb* spell.
+
+//**Misty Escape**//
+Starting at 10th level, when you are reduced to zero hit points, you turn into a cloud of mist.  While in this form you cannot take damage and you can fly, but you still count as being unconscious and must make death saving throws as normal.
+On your next turn, or current turn if you were knocked down on your own turn, you can move up to 30 feet.  At the end of that turn, you reform into your normal self and fall to the ground.
+Once you transform into mist this way, it can't happe again until you finsih a long rest.
+

@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-08T09:04:45-08:00
+
+[[Home]]
+
+====== House Rules Compendium ======
+
+
+===== Natural Rolls =====
+
+=== Nat 20s ===
+Natural 20s are treated as having a +5 modifier, so a roll of 20 is really a 25 (+ any additional modifiers).  This is to avoid the whole "doing the impossible", but to also provide that "LETS GO" moment, as a 20 is still way better than a 19.
+
+=== Nat 1s ===
+Natural 1s are treated as auto misses as per rules as written, however a drastic fumble won't be the norm.  That'll only ever happen in low stakes/funny scenes.
+
+
+===== Flanking =====
+Flanking is determined as having assailants on opposite sides of a target.  While flanked, all melee or ranged attacks against that target are made with a +2 bonus to hit.  This is a bonus instead of advantage to make sure that spells or abilities which give advantage are still super relevant, and you can't achieve the same thing through mundane positioning.  Also, there's weird synergies off of attack rolls made at advantage, and I don't want those going off when they're not "supposed" to.  A breakdown of the relative probabilities can be found in a video by Taking20.
+
+
+===== Reskinning =====
+Just come talk to me.  Generally its gonna be a yes, but sometimes there might be conflicts, and I also just want to know what's what from a stats/rules perspective.
+
+
+===== Additional Homebrew =====
+See Reskinning, but the odds of needing to reach some kind of middle ground are alot higher, and please always remember that I do reserve the right to a flat "no".
+
+
+===== Other Rules =====
+There's likely others, but I just can't think of any right now
+

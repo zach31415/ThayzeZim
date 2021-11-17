@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-01-18T18:03:38-08:00
+
+[[Bestiary]]
+
+====== Pollen Blight ======
+@Green
+@Yellow
+
+
+===== Description =====
+This huntched figure is coated in sickly yellow flowers which appear to grow from its porous spongy flesh.
+
+===== Lore =====
+
+
+===== Stats =====
+
+ID:  Pollen Blight
+AC:  12
+HP:  38 (5d8+15)
+Speed:  15 ft.
+Abilities:  13 str, 10 dex, 16 con, 5 int, 12 wis, 3 cha
+Saves:  +1 str, +0 dex, +3 con, -3 int, +1 wis, -4 cha
+Proficiency Bonus:  +2
+Proficient Skills:  Stealth +3
+Condition Immunities:  Blinded, Deafened
+Actions:
+	N/A
+Abilites:
+
+//**Necrotic Puff (Recharge 5-6)**//
+Create a 10 ft. diameter cloud of yellow pollen which floats intelligently up to 10 ft. per round and lasts up to three rounds.  Whenever a creatre enters or starts its turn within the cloud it takes 1d4+1 necrotic damage.
+

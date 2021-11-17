@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-12-07T08:47:38-08:00
+
+[[Sentient Profiles|Profiles]]
+
+====== Kobolds ======
+
+
+===== Physicality =====
+
+
+
+===== Psychology =====
+
+
+
+===== Politics =====
+
+
+
+
+
+
+
+== Stats ==
+
++2 dex
++1 cha
+size: small
+speed: 30 ft.
+Darkvision 60 ft.
+**Natural Wrath.** Pick from Firebolt, Frostbite, Ray of Frost, Shocking Grasp, you basically get that cantrip and use your cha mod for it
