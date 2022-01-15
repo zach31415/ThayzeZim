@@ -8,7 +8,7 @@ Creation-Date: 2020-12-28T19:30:30-08:00
 
 [[+Tik|Aeryn (Tik)]]
 [[+Varis|Andre (Varis)]]
-[[+Reginae|Angelie (Reginae)]]
+[[+Reginae|Angelie (Re ginae)]]
 [[+Vol'shtakigreegna|Marvin (Vol'shtakingreegna)]]
 [[+Baragon|Nathaniel (Baragon)]]
 
@@ -32,7 +32,7 @@ Tik			14
 Varis		15
 Reginae		16
 Volts		14
-Baragon		18
+Baragon		17
 
 
 

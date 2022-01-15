@@ -3,7 +3,7 @@ Wiki-Format: zim 0.6
 Creation-Date: 2020-12-03T21:20:05-08:00
 
 ====== Session 1 ======
-Session was on: Yday 00 Month 202X
+Session was on: Tuesday 16 November 2021 
 
 
 ===== Session Plans =====
@@ -13,20 +13,58 @@ So we really want to make the party stick together, and give them a reason to be
 The embrace of the Mother is no warm sanctuary, it is cold, distant, and derisive.  The Mother teaches, it does not coddle.  The Mother cultivates, it does not nurture.  The Mother sleeps, yet yearns to wake.
 
 Peace offering: A Primitve, amophous, unmade Ironwood
-we make tools, bu some times they're required elsewhere
+we make tools, but some times they're required elsewhere
 
-
+WAS NOT LUCUS WHO TOOK VARIS' Stuff
 
 The Lucus Talk → 
-
+ 
 
 Lucus Talk
 
-Welcome to this Sanctuary, I imagine you all will have questions.  He with first right is however, you, young Varis.
+Welcome to this Sanctuary, I imagine you all will have questions.
+
+I require a material, and I would like to see how you all manage to attain it.  
+		The eggshell of an Anguis
+
+Kobold fairytale about the Anguis, the giant snake that once became symbiotic with a kobold caravan
+
+ID:  Anguis
+AC:  14
+HP:  40 MAX  26
+Size:  large (15 ft. long, 3 ft. diameter)
+Bite +4 (1d6+1 piercing) reach
+Sweep: dex save DC 14 to half 2d8 bludgeoning
+Constrict:  str save DC 14 to avoid grapple which deals 1d6 bludgeoning as bonus action
 
 
 
 ===== Session Notes =====
+
+
+Volts
+Reginae
+Tickalter
+Varis
+Anguis Mother
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

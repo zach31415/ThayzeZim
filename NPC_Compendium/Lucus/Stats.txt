@@ -5,20 +5,18 @@ Creation-Date: 2021-01-19T18:40:29-08:00
 ====== Stats ======
 
 ID:  Lucus
-AC:  
-HP:  
-Speed:  
-Abilities:  str, dex, con, int, wis, cha
-Saves:  str, dex, con, int, wis, cha
-Proficiency Bonus:  
-Proficient Skills:  
-Resistances:  
-Damage Immunities:  
-Condition Immunities:  
-Vulnerabilities:  
+AC:  12
+HP:  29
+Speed:  25 ft.
+Abilities:  21 str, 13 dex, 8 con, 19 int, 17 wis, 14 cha
+Saves:  +5 str, +1 dex, -1 con, +4 int, +3 wis, +2 cha
+Proficiency Bonus:  +3
+Proficient Skills:  Arcana, Nature, History, 
+Resistances:  None (yet)
+Damage Immunities:  Poison
+Condition Immunities:  Diseases
 Actions:
-	Name +atk (dmg) range
-Abilites:
+	Ionwood Staff +8 (2d6+5 bludgeoning) melee
 
 
 
