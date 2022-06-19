@@ -74,7 +74,7 @@ This spell creates an undead servant. Choose a pile of bones or a corpse of a Me
 **At Higher Levels:** When you cast this spell using a spell slot of 4th level or higher //you can reassert control over// one additional Undead creature for each slot above 3rd.  **Alternatively, you can look at this cool table for buffs when making new ones:**
 
 
-| Spell Level<| Stacking Bonus                                                                                                                                <|
+| Spell Level<| Stacking Bonuses                                                                                                                              <|
 |:------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 | 3           | gain proficiency with Light Armor and Simple Weapons (this is a debuf, as shortsword is martial), gain +2 str (to make the debuff less severe) |
 | 4           | gain proficiency with Medium Armor and Martial Weapons, gain +3 str (so str is same as dex), gain 6 (1d8+2) hp                                 |

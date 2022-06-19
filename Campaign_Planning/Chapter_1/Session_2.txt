@@ -8,9 +8,33 @@ Session was on: Yday 00 Month 202X
 
 ===== Session Plans =====
 
+--Finish out the Anguis encounter--
+angry, calling their mate to protect the young, when cracked open, the young will not necessarily die as it was very late in its development: requires a DC 12 medicine check to stabalize it after birth, at least 6 points of magical healing will reduce this to a DC 5.
+
+ID:  Anguis
+AC:  14
+HP:  40 MAX  26
+Size:  large (15 ft. long, 4 ft. diameter)
+Bite +4 (1d6+1 piercing) reach
+Sweep: dex save DC 14 to half 2d8 bludgeoning
+Constrict:  str save DC 14 to avoid grapple which deals 1d6 bludgeoning as bonus action
 
 
+Lucus definitely offers to care for the infant Anguis if available, and will give the group an orb of ironwood as reward in addition to the pound of silver with the offer to shape the ironwood should they ever desire it. 
+Lucus then warns the group of a series of other powerful beings in this world (shadows and gold and betrayers), beings that seek his annihilation and by extension, may target his agents, such as the party.
+Lucus then attempts to dispatch his anvil to a disturbance in the forest to the north to scout and report back as this force appears to be able to unerroringly differentate his children from natural growths.
 
+Cresting a ridge, can catch snatches of distant yelling and the scent of char carried upon the wind, a slight column of smoke filtered through the canopy several miles out.
+
+Kobold caravan itself long sense abandoned, they flee from a swarm of around seven specters, with more in the distance
+the group originally had 18 but five of them died in the initial attack and three more sacrificed to buy time for the rest to run
+Brother & Sister, Zeke and Ilio are both gifted Kindled kobolds and are the only real fighters remaing of the 11 survivors (really 10)
+child and grandfather kobold both require immediate medical attention, one histerical mother of a dead child and husband, one brain dead dazed teen with a younger brother desperatey trying to get her attention, leader elder matron (Z&I grandmother)
+
+G + P-   >  >  Z & I
+G > M + F-  >  C & C-
+E- +H-  >  T- & C
+M- + F  >  C- & C- & C-
 
 
 

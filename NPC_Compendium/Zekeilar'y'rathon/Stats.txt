@@ -5,13 +5,13 @@ Creation-Date: 2020-12-01T20:43:14-08:00
 ====== Stats ======
 
 ID:  Zekeilar'y'rathon
-AC:  16+3
-HP:  27
+AC:  16 (19)
+HP: 32
 Speed:  30 ft. speed & 30 ft. fly
 Abilities:  16 str, 14 dex, 8 con, 13 int, 12 wis, 16 cha
-Saves:  +3 str, +2 dex, -1 con, +1 int, +1 wis, +3 cha
+Saves:  +3 str, +2 dex, -1 con, +3 int, +1 wis, +5 cha
 Proficiency Bonus:  +2
-Proficient Skills:  Stealth, Acrobatics
+Proficient Skills:  Stealth, Acrobatics, Persuasion, Sleight of Hand
 Resistances:  Fire
 Actions:
 	Trident +5 (1d6+3) melee
@@ -19,7 +19,7 @@ Actions:
 Abilites:
 
 //**Eldritch Surge**//
-+2d8 fire on a hit  and gain 10 temp hp.  2/long rest
++2d8 fire on a hit  and gain 15 temp hp.  2/long rest
 
 //**Mantle of Incineration**//
 2/day
