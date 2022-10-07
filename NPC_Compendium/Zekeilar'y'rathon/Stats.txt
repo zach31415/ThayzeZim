@@ -5,8 +5,8 @@ Creation-Date: 2020-12-01T20:43:14-08:00
 ====== Stats ======
 
 ID:  Zekeilar'y'rathon
-AC:  16 (19)
-HP: 32
+AC:  14 (17)
+HP: 32+15
 Speed:  30 ft. speed & 30 ft. fly
 Abilities:  16 str, 14 dex, 8 con, 13 int, 12 wis, 16 cha
 Saves:  +3 str, +2 dex, -1 con, +3 int, +1 wis, +5 cha

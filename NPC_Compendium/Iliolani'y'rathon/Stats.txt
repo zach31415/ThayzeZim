@@ -4,21 +4,28 @@ Creation-Date: 2022-06-18T16:37:31-07:00
 
 ====== Stats ======
 
-ID:  
-AC:  
-HP:  
-Speed:  
-Abilities:  str, dex, con, int, wis, cha
-Saves:  str, dex, con, int, wis, cha
-Proficiency Bonus:  
-Proficient Skills:  
-Resistances:  
-Damage Immunities:  
-Condition Immunities:  
-Vulnerabilities:  
+ID:  Iliolani'y'rathon
+AC:  15 (18)
+HP: 32    25
+Speed:  30 ft. speed & 30 ft. fly
+Abilities:  14 str, 16 dex, 8 con, 12 int, 13 wis, 16 cha
+Saves:  +2 str, +3 dex, -1 con, +3 int, +1 wis, +5 cha
+Proficiency Bonus:  +2
+Proficient Skills:  Stealth, Acrobatics, Persuasion, Sleight of Hand
+Resistances:  Fire
 Actions:
-	Name +atk (dmg) range
+	Chain Blade +5 (1d8+3) reach
 Abilites:
 
+//**Eldritch Surge**//
++2d8 fire on a hit  and gain 15 temp hp.  2/long rest
 
+//**Mantle of Incineration**//
+2/day
+* +3 AC
+* +10 ft. speed
+* advantange on Acrobatics
+* any creature who hits Zeke with a melee attack within 5 feet takes three (3) fire damage 
 
+//**Seeker's Sight**//
+Can see in both magical and natural darkness out to 120 ft. as if he had darkvision
