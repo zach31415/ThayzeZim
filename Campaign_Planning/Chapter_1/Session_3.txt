@@ -19,7 +19,7 @@ M- + F   >   C- & C- & C-
 
 Tiliariala + Palaranataka-    >   >   Zekeilar & Iliolani			'y'rathon
 Kikalianan   >   Kolaeian + Doliraanai-   >   Keiloaraii-			'y'kiloro
-Nekeiantil- + Volenenalio-   >   --Eirienali-- & Xiiitini							'y'galiar
+Nekeiantil- + Volenenalio-   >   --Eirienali-- & Xiiitini			'y'galiar
 Gingilale- + Pirinalin   >   Ginolale- & Ginilale- & Ginalale-		'y'palinari
 
 Tiliarala  >  Zekeilar & Iliolani		'y'rathon
@@ -44,13 +44,71 @@ Archway Inscription: "Enter only who are among the Travelers.  Attain the means 
 Approximately 250 ft. long, starts out at 4 1/2 ft. by 5 1/2 ft. and narrows down to arround 2 by 4 ft. though the last three feet or so is comprised of a crawl only a foot and a half high.
 
 == Cella: ==
- eliptic trapezoid (egg shaped) widened at the entrance and narrowing going forward.  The ceiling is about 50 ft. above the entrance point, and the group rises in two tiers to a brilliant statue of a flame wreathed kobold, roughly sixty (60) ft. from the entrance way.  The statue holds in an outstretched hand the Life Ward, a shape appearing to be two intersecting cubes such that the corners of one perfectly cut through the face of the other, with the form created by hatching watered steel bands with the internal negative filled with a swirling form of magma.  Every level up cuts movement speen in half by an incredible weighting on the limbs.  Once the Life Ward is removed from the outsretched hand of the kobold statue, the area will collapse.
+Eliptic trapezoid (egg shaped) widened at the entrance and narrowing going forward.  The ceiling is about 50 ft. above the entrance point, and the group rises in two tiers to a brilliant statue of a flame wreathed kobold, roughly sixty (60) ft. from the entrance way.  The statue holds in an outstretched hand the Life Ward, a shape appearing to be two intersecting cubes such that the corners of one perfectly cut through the face of the other, with the form created by hatching watered steel bands with the internal negative filled with a swirling form of magma.  Every level up cuts movement speen in half by an incredible weighting on the limbs.  Once the Life Ward is removed from the outsretched hand of the kobold statue, the area will collapse as the Kindled are unleashed.
 
 
-
+[[NPC Compendium:Zekeilar'y'rathon:Stats|Zeke Stats]]
+[[NPC Compendium:Iliolani'y'rathon:Stats|Ilio Stats]]
+[[NPC Compendium:Eigen:Stats|Specter Stats]]
 
 
 ===== Session Notes =====
+
+Reginae	1	25
+Tick		18
+Varis	5	17
+Volts	7	7
+Tilia		0	5		stable
+
+Specters 4x
+12 AC
+0		0		0		0		0
+
+0		0		0		0		0
+
+0		0		0		0		0
+
+0		0		0		0		0
+
+0		0		0		8		12
+
+0		4		0		0		8
+
+0		8		13		0		0
+
+2		2		0		0		7
+
+8		8		2
+
+
+Volts	1d6 inspiration
+Tick
+Twins
+Reginae
+Specters
+Varis
+Tilia		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
