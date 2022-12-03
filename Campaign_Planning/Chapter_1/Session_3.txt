@@ -63,21 +63,13 @@ Tilia		0	5		stable
 Specters 4x
 12 AC
 0		0		0		0		0
-
 0		0		0		0		0
-
 0		0		0		0		0
-
 0		0		0		0		0
-
 0		0		0		8		12
-
 0		4		0		0		8
-
 0		8		13		0		0
-
 2		2		0		0		7
-
 8		8		2
 
 
@@ -91,7 +83,7 @@ Tilia
 
 
 
-
+TICK SAW OWLBEAR OUTSIDE
 
 
 

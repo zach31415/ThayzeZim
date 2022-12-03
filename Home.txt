@@ -27,7 +27,7 @@ Creation-Date: 2020-12-01T20:10:27-08:00
 
 [[Player Compendium]]
 
-[[Sentient Profiles]]
+[[Campaign Planning:Sentient Profiles]]
 
 Thayze:
 {{.\pasted_image003.png}}
