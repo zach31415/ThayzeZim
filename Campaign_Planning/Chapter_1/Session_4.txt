@@ -2,7 +2,9 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-06-18T14:38:10-07:00
 
-====== Session 2 ======
+[[Chapter 1]]
+
+====== Session 4 ======
 Session was on: Yday 00 Month 202X
 
 

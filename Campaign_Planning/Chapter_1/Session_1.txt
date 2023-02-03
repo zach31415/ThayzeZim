@@ -2,6 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2020-12-03T21:20:05-08:00
 
+[[Chapter 1]]
+
 ====== Session 1 ======
 Session was on: Tuesday 16 November 2021 
 

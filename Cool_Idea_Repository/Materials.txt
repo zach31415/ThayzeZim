@@ -28,11 +28,34 @@ burned plants to provide carbon nanotubes in the steel
 ===== Ironwood =====
 Roughly as strong and durrable as high quality steel, yet contains regenerative properties.  No one is certain anymore of how to forge it, as it always heals back to its original form.  Extremely fine grained, to the point of feeling completely smooth, will grow back to whole if damaged.
 
-
 ===== Watered Steel =====
 Ferro Amnus, Watered Steel, perhaps the most closely guarded secret of humanity, these bladed weapons are cuvetted by warriors and collectors alike.  Many have tried to emulate this work, but true Watered Steel works are unparalleled.
 
 ===== Painite - Veridnox, Chrysas, Erythcrescere =====
 Veridnox Painite is the most common form, an only barely transluscent green tinged black, found in subterranean watered caves, essentailly a corrupted/oxidized form of Painite.  Capable of preserving small amounts of verdant energy, Veridnox is often embedded into jewelery or weapons to provide the carrier a source of emergency vitality.  Chrysas Painite is a nearly opaque golden amber found in structures akin to stalagmites and stalagtites is caves, the least ordered form of Painite, incapable of naturally containing energies.  This almost lumpy crystal must be cut and honed with mastery, but once formed, these blades hold with incredible strength and resilience.  Erythcrescere Painite is the rarest form, an unstable, fracturing crimson found growing deep within the earth in hidden pockets, thirsting.  Erythcrescere is a vesel of energy so potent it innately channels Suchlaph directly, growing only when able to feed from such energy.  Weapons of Erythcrescere are outlawed by every nation and faction known, but not by all that are unknown.
+
+
+Simple Veridnox Bauble:  common magic item, contains 1 charge that it regains at dawn. Expend a charge as a bonus action to gain 2d4+2 temporary hp.
+
+Charged Veridnox Bauble:  uncommon magic item, contains 3 charges that it regains 1d4-1 at dawn. Expend a charge as a bonus action to heal 2d4+2 hp.
+
+Chrysas Weapon:  rare magic item, functions as a +2 magic weapon and can crit on a 19-20
+
+Erythcrescere Weapon:  very rare magic item, damage dealt by the weapon strike itself permenently reduces the target's max hp by disrupting the target's conduit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

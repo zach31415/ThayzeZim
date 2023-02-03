@@ -2,8 +2,10 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2022-06-18T14:37:22-07:00
 
+[[Chapter 1]]
+
 ====== Session 3 ======
-Session was on: Yday 00 Month 202X
+Session was on: Friday 22 October 2022
 
 
 ===== Session Plans =====
