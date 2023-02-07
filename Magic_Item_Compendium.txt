@@ -14,10 +14,12 @@ Creation-Date: 2020-12-02T16:21:03-08:00
 === B ===
 
 === C ===
+[[+Chrysas Weapon|Chrysas Weapon]]
 
 === D ===
 
 === E ===
+[[+Erythcrescere Weapon|Erythcrescere Weapon]]
 
 === F ===
 
@@ -26,6 +28,7 @@ Creation-Date: 2020-12-02T16:21:03-08:00
 === H ===
 
 === I ===
+[[+Ironwood Bracer|Ironwood Bracer]]
 
 === J ===
 
@@ -52,6 +55,7 @@ Creation-Date: 2020-12-02T16:21:03-08:00
 === U ===
 
 === V ===
+[[+Veridnox Bauble|Veridnox Bauble]]
 
 === W ===
 
@@ -60,9 +64,6 @@ Creation-Date: 2020-12-02T16:21:03-08:00
 === Y ===
 
 === Z ===
-
-
-
 
 
 

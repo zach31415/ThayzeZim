@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-06T14:24:30-08:00
+
+====== Stats ======
+
+ID:  Palaranataka'y'rathon
+AC:  16
+HP:  45
+Speed:  fly 60 ft. (hover)
+Abilities:  14 str, 16 dex, 11 con, 9 int, 15 wis, 17 cha
+Saves:  +2 str, +3 dex, +0 con, +2 int, +2 wis, +6 cha
+Proficiency Bonus:  +3
+Proficient Skills:  Stealth, Acrobatics, Persuasion, Deception
+Resistances:  Acid, Cold, Fire, Lightning, Thunder, Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+Damage Immunities:  Necrotic, Poison
+Condition Immunities:  Charmed, Exhausion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+Actions:
+	Ethereal Longsword +6 (1d8+3 slashing) melee
+	Ethereal Shortsword +6 (1d6 slashing) melee
+Abilites:
+
+//**Incorporeal Movement**//
+The specter can move through other creatures and objects as if they were difficult terrain.  It takes 5 (1d10) force damage if it ends its turn inside an object.
+
+//**Draining Eldritch Surge**//
+As a bonus action, the next sucessful weapon attack deals an additional 2d8 necrotic damage and the target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to this necrotic damage taken.  This reduction lasts until the creature finishes a long rest.  The target dies if this effect reduces its hit point maximum to 0.

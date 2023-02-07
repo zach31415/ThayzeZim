@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-07T11:09:28-08:00
+
+[[Magic Item Compendium|Compendium]]
+
+====== Erythcrescere Weapon ======
+
+
+Erythcrescere Weapon:  very rare magic item, damage dealt by the weapon strike itself permenently reduces the target's max hp by disrupting the target's conduit.

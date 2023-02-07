@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-07T11:09:42-08:00
+
+[[Magic Item Compendium|Compendium]]
+
+====== Chrysas Weapon ======
+
+
+Chrysas Weapon:  rare magic item, functions as a +2 magic weapon and can crit on a 19-20

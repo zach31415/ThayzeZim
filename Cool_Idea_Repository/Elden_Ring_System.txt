@@ -1,0 +1,138 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-05T11:43:29-08:00
+
+====== Elden Ring System ======
+
+Vitality		governs health & deathblight/frostbite/bleed resistance
+Constitution	governs stamina & poison/scarlet rot/sleep resistance
+
+Strength		governs some weapon attacks
+Dexterity		governs some weapon attacks
+
+Erudition		the foundation of most Sorsories
+Faith			the foundation of most Incantations & Madness resistance
+Insight		the foundation of most Rites & Madness resistance
+
+
+
+	Status Effects
+Poison
+Scarlet Rot
+Frostbite
+Bleed
+Sleep
+Deathblight
+Madness
+
+
+
+Damage Types
+	Physical
+		Strike
+		Slash
+		Pierce
+	Energy
+		Magic
+		Fire
+		Lightning
+		Holy
+
+
+
+Sources of Power in The Lands Between
+
+The One Great							
+	Great Runes							Maliketh & Renalla & Marika's Children
+Outer Gods						
+	Formless Mother						Mohgwinian Dynasty
+	Flame of Frenzy						Merchants & Vyke
+	Scarlet Rot							Melenia & Lake of Rot Ancestral Followers & Pests
+	Greater Will							Radagon's Golden Order & the Elden Beast & Morgott & Erdtree Avatars & Guardians
+	Fell God of Flame						Fire Giants
+	Mother of the Deathbirds					Deathrite Birds & Ghostflame worshipers
+Primeval Current					Azur & Lusat & Sellen
+	Gravitational							Onyx Lords & Sellians
+	Glintstone								Caria & Rya Lucaria & Crystalians
+	Blood Star/Bloodstone					The Briar Punished Seers
+	Bubble Star Fate						Claymen & Envoy Claymen
+God of Dragons					
+	Ancient Dragon Cult						Draconic Tree Sentinels & Gold+Somber Smithing Stones
+	Modern Dragon Communion				Magma Wyrms
+Night Celestia						The Nox & Sellians
+	Black Moon							The Nox (noskellans particularly) 
+	Dark Moon							Ranni the Witch & The Zamor & The Nox (Dragonkin Soldiers)
+	Full Moon								Renalla, Queen of Caria
+The Crucible						Vulgar Malitia & Godfrey & Omen & Misbegotten & Demi-humans & (ulcerated & putrid) Tree Spirits
+Unalloyed Gold						Miquella & The Halig Tree Order
+Godwyn							Fia & Fortissax & Wormfaces & Bassalisks
+Ancestral Spirits					The Ancestral Followers
+Roil of Gelmir						Rykard & Lady Tanith
+
+
+
+		Combat Equipment
+Armaments - weapons & shields
+Catalysts - staffs and seals and focuses
+	+
+Natural - mundane & infused items that can be produced
+Somber - items of particular or unique properties
+
+	Armor Classes
+Null		Non-Armors such as normal clothing or ceremonial robes
+Light	Armors of padding or few thin plating
+Medium	Armors of solid mail and plentiful plating
+Heavy	Armors of rare form, thick stone or very pull plate
+
+
+
+
+
+Value : Point Cost
+-1 : 0	0  : 1	1  : 2	2  : 3	3  : 5	4  : 7
+
+-1	-1	-1	-1	-1	-1	-1		19
+4	3	4	-1	-1	-1	-1		0	Unga Bunga
+0	2	2	2	2	2	2		0	John Ring
+3	1	0	2	4	-1	0		0	Nightveil User
+2	1	0	1	1	1	4		0	Frenzied Mode
+2	2	2	-1	3	3	-1		0	Rada-Chad
+
+
+
+Vitality		integrity of form and body, transcendant withstanding of physical damage
+Constitution	endurance of being, the physiological expression of the will to continue
+Strength		the might of capacity, the definition of raw ability to take action
+Dexterity		the capacity of might, the shaping and directing of power and action
+Erudition		knowledge and information, encyclopedic or intuited, the awareness of what is and is not
+Faith			expression of trust and dependency upon principle or power reciprocates upon the giver
+Insight		awareness of manner and meaning, transcending the what and how for query of why
+
+Vigor		(Vitalilty)		Deathblight + Frostbite + Bleed
+Resilience		(Constitution)	Poison + Scarlet Rot + Sleep
+Sanity		(insight/faith)	Madness
+
+
+
+
+
+
+
+hp = 100 + 10*vitality gives a range of 80 to 140 at -1 and 4 vitality respectivley
+stamina = 100 + 10*constitution gives a range of 80 to 140 at -1 and 4 vitality respectivley
+
+Damage to Stamina Ratio goes from 4 : 1 to 2 : 1, 40/10 to 200/100
+
+Dagger >		40/10	|	50/20	|	combo max at 5x, costing 3 more stamina per strike
+Greatsword >	150/70	|	200/100	|	
+
+
+
+
+
+
+
+
+
+
+

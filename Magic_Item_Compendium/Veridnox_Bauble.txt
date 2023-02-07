@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-07T11:09:04-08:00
+
+[[Magic Item Compendium|Compendium]]
+
+====== Veridnox Bauble ======
+
+
+Simple Veridnox Bauble:  common magic item, contains 1 charge that it regains at dawn. Expend a charge as a bonus action to gain 2d4+2 temporary hp.
+
+Charged Veridnox Bauble:  uncommon magic item, contains 3 charges that it regains 1d4-1 at dawn. Expend a charge as a bonus action to heal 2d4+2 hp.

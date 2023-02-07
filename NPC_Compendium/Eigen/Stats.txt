@@ -6,11 +6,11 @@ Creation-Date: 2020-12-01T20:18:50-08:00
 
 
 ID:  Eigen Mk 5
-AC:  15
-HP:  67
+AC:  16
+HP:  65
 Speed:  30 ft.
-Abilities:  16 str, 15 dex, 14 con, 18 int, 14 wis, 12 cha
-Saves:  +3 str, +2 dex, +5 con, +7 int, +2 wis, +1 cha
+Abilities:  15 str, 15 dex, 14 con, 18 int, 14 wis, 12 cha
+Saves:  +2 str, +2 dex, +5 con, +7 int, +2 wis, +1 cha
 Proficiency Bonus:  +3
 Proficient Skills:  Arcana, History, Investigation, Nature, Religion
 Resistances: Piercing, Slashing, Bludgeoning from nonmagical weapons
@@ -18,10 +18,13 @@ Damage Immunities:  Poison
 Condition Immunities:  Frightened, Paralyzed, Petrified, Poisoned, Stunned
 Vulnerabilities:  Acid
 Actions:
-	2x +2 Greatsword +8 (1d12+6 slashing) melee
-	3x +1 Hand Crossbow +6 (1d6+3 piercing) 30/120
-	+3 Heavy Crossbow +8 (1d10+5 piercing) 100/400
+	2x +1 Greatsword +6 (1d12+3 slashing) melee
+	3x Hand Crossbow +5 (1d6+2 piercing) 30/120
+	+3 Power Crossbow +8 (2d10+5 piercing) 100/400
 Abilites:
+
+//**Powered Leap**//
+As a bonus action, Eigen can leap up to 60 ft. laterally with an arc apex of 20 ft. in the air. Recharges on a 5-6
 
 //**Phantom Collection**//
 Whenever a creature dies within a hundred feet of Eigen, their souls become entwined with its being, keeping it from departing.  These spirits can be called forth by Eigen and manifest as [[Colors|green]] Specters without sunlight sensitivity.

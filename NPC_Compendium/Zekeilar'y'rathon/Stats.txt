@@ -14,12 +14,12 @@ Proficiency Bonus:  +2
 Proficient Skills:  Stealth, Acrobatics, Persuasion, Sleight of Hand
 Resistances:  Fire
 Actions:
-	Trident +5 (1d6+3) melee
-	Light Pick +5 (1d4+3) melee
+	Bident +5 (1d6+3 piercing) melee
+	Light Pick +5 (1d4+3 piercing) melee
 Abilites:
 
 //**Eldritch Surge**//
-+2d8 fire on a hit  and gain 15 temp hp.  2/long rest
++2d8 fire on a hit  and gain 10 temp hp.  2/long rest
 
 //**Mantle of Incineration**//
 2/day

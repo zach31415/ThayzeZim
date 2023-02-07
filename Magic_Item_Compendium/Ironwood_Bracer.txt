@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-07T12:51:37-08:00
+
+[[Magic Item Compendium|Compendium]]
+
+====== Ironwood Bracer ======
+
+
+Attunement
+charge count = proficiency bonus of the attuned creature
+Shield Surge (1 charge)  :  reaction  :  gain +2 to AC or advantage on a Reflex Saving Throw against the triggering attack

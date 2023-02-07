@@ -20,21 +20,26 @@ This androgynous elven figure appears made of a dark wood instead of flesh.  The
 
 ===== Stats =====
 
-ID:  
-AC:  
-HP:  
-Speed:  
-Abilities:  str, dex, con, int, wis, cha
-Saves:  str, dex, con, int, wis, cha
-Proficiency Bonus:  
-Proficient Skills:  
-Resistances:  
-Damage Immunities:  
-Condition Immunities:  
-Vulnerabilities:  
+ID:  Thorn Blight
+AC:  15
+HP:  30
+Speed:  30 ft.
+Abilities:  13 str, 17 dex, 12 con, 11 int, 14 wis, 7 cha
+Saves:  +1 str, +5 dex, +3 con, +0 int, +2 wis, -2 cha
+Proficiency Bonus:  +3
+Proficient Skills:  Athletics, Acrobatics, Insight, Nature
 Actions:
-	Name +atk (dmg) range
+	2x Rending Claw +6 (1d6+3) melee
 Abilites:
+
+//**Arboreal Gate**//
+As an action, the Thorn Blight can step into any living, mature tree and out of any other tree they have previously made physical contact with.
+
+//**Eyes of the Forrest**//
+Thorn Blights share a sesory awareness with every Blight within 120 ft., both gaining the blindsight information of other Blights and communicating their natural sight to those Blights.
+
+//**Ironwood Heart**//
+At the top of every round where the heart is intact, the Thorn Blight regains up to 5 hp and can reconstitute one limb or head.
 
 
 

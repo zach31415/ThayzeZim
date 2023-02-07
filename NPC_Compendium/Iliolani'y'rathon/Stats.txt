@@ -18,14 +18,14 @@ Actions:
 Abilites:
 
 //**Eldritch Surge**//
-+2d8 fire on a hit  and gain 15 temp hp.  2/long rest
++2d8 fire on a hit  and gain 10 temp hp.  2/long rest
 
 //**Mantle of Incineration**//
 2/day
 * +3 AC
 * +10 ft. speed
 * advantange on Acrobatics
-* any creature who hits Zeke with a melee attack within 5 feet takes three (3) fire damage 
+* any creature who hits Ilio with a melee attack within 5 feet takes three (3) fire damage 
 
 //**Seeker's Sight**//
 Can see in both magical and natural darkness out to 120 ft. as if he had darkvision

@@ -27,10 +27,10 @@ LEVEL 2 START
 [[+Session 1|Session 1]]:  the team bonding, end on a high note			
 [[+Session 2|Session 2]]:  the kobolds and arriving at the refugees		LEVEL TO 3
 [[+Session 3|Session 3]]:  handling the refugees & get the artifact		LEVEL TO 4
-[[+Session 4|Session 4]]:  get into the cella
+[[+Session 4|Session 4]]:  Lucus Envoy & Eigen Encounter
 [[+Session 5|Session 5]]:  get out of the cella							LEVEL TO 5
 [[+Session 6|Session 6]]:  fight Eigen Mk 4 & then 5's revenge			LEVEL TO 6
 
 
 
-10/22/22
+
