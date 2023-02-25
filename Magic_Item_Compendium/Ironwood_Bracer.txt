@@ -9,4 +9,4 @@ Creation-Date: 2023-02-07T12:51:37-08:00
 
 Attunement
 charge count = proficiency bonus of the attuned creature
-Shield Surge (1 charge)  :  reaction  :  gain +2 to AC or advantage on a Reflex Saving Throw against the triggering attack
+Shield Surge (1 charge)  :  reaction  :  gain +2 to AC or advantage on a Dexterity Saving Throw against the triggering attack

@@ -54,6 +54,9 @@ Abilites:
 Whenever a creature dies within five hundred feet of Eigen, their souls become entwined with its being, keeping it from departing.  These spirits can be called forth by Eigen and manifest as [[Colors|green]] Specters without sunlight sensitivity.
 
 
+SEE CONDUITS VIA THE EPHREM
+
+
 
 {{.\pasted_image.png}}
 
